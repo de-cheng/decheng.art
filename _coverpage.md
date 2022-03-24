@@ -1,1 +1,2 @@
-![](/images/umbrella2.png)
+
+![](/images/umbrella.jpg)
